@@ -36,6 +36,19 @@ Aprender Linux na prática, documentando comandos, exercícios e desafios realiz
 - [ ] Shell Script
 - [ ] Administração Linux
 
+## Tecnologias em estudo
+
+- Linux
+- Git
+- GitHub
+- Python
+- AWS
+- Docker
+
+## Meta
+
+Conseguir minha primeira oportunidade na área de TI e evoluir até me tornar Engenheiro de Cloud.
+
 ## Autor
 
 Carlos Alexandre Reis
